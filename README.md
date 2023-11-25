@@ -3,3 +3,4 @@
 - .\swag.exe init -g routers\api.go
 - go run .
 - Open browser (localhost:3000/docs/index.html)
+### Valdy Ramadhan GLNG-KS08-09 
